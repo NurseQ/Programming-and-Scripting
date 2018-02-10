@@ -7,7 +7,7 @@ while j > 1:
     print (j)
     
     if j % 2 == 0:
-        j = j / 2
+        j = j // 2
     else:
         j = (j * 3) + 1
         
