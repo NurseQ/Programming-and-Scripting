@@ -1,5 +1,5 @@
 # Adapted from Ian McLoughlin
-
+#Exercise 1 and 2
 def fib(n):
   """This function returns the nth Fibonacci number."""
   i = 0
