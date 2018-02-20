@@ -1,5 +1,6 @@
 #James Quintin 09/02/18
 #Python code for Collatz conjecture
+#Week 3 exercise
 
 j = int(input("Enter a number: "))
 
