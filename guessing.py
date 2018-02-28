@@ -1,6 +1,6 @@
 # James Quintin 28/01/18
 # Guessing game adapted from Ian McLoughlin
-#trial git
+#trial git 2
 from random import randint
 
 target = (randint(0, 50))
