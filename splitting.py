@@ -3,6 +3,6 @@
 
 with open("datum/iris.csv") as f:
     for line in f: 
-        print(line, end='') # removes the new line in code
+        print(line.split(','), end='') # places each line into a python list
 
 
