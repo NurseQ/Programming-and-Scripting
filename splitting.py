@@ -3,6 +3,6 @@
 
 with open("datum/iris.csv") as f:
     for line in f: 
-        print(line.split(','), end='') # places each line into a python list
+        print(line.split(',')[0]) # prints to the terminal the first column of data
 
 
