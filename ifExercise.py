@@ -9,6 +9,6 @@ if x <= 20:
 elif x <= 30:
     print("You are getting old!")
 elif x <= 40:
-    print("You are getting old!")
-else:
     print("You are old!")
+else:
+    print("You are very old!")
