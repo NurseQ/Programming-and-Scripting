@@ -35,8 +35,8 @@ def GCD(x, y):
         return x
 
 print("The gcd of 6 and 15: ", GCD(6, 15))
-z = GCD(221, 323)
-print("gcd of 221 and 323 is : ", z)
+z = GCD(36, 96)
+print("gcd of 36 and 96 is : ", z)
 
 
 
