@@ -12,6 +12,7 @@ The purpose of this repository is to learn to code in python in relation to its 
 
 ## Exercises for Programming and Scripting
 The following list are exercises and assignments for the course Programming and Scripting. 
+The codes relate to which exercise it answers, please refer to the repository.
 
 * **Exercise 1 and 2**- firstLast.py
 * **Exercise 3**- collatz.py
