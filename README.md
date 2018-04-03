@@ -5,5 +5,5 @@ Some of the code that are listed below are assignments and exercises for the cou
 
 
 ## Exercises for Programming and Scripting
-***Exercise 1 and 2**- firstLast.py
+* **Exercise 1 and 2**- firstLast.py
 
