@@ -1,7 +1,7 @@
 # Exercises in Python code
 
 This repository contains exercises and practice code written in [python](https://www.python.org/).
-Some of the code that are listed below are assignments and exercises for the course Programming and Scripting. 
+
 
 ## Purpose
 The purpose of this repository is to learn to code in python in relation to its use in [data analytics](https://en.wikipedia.org/wiki/Data_analysis). 
@@ -11,6 +11,8 @@ The purpose of this repository is to learn to code in python in relation to its 
 
 
 ## Exercises for Programming and Scripting
+The following list are exercises and assignments for the course Programming and Scripting. 
+
 * **Exercise 1 and 2**- firstLast.py
 * **Exercise 3**- collatz.py
 * **Exercise 4**- euler.py
