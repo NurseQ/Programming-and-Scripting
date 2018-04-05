@@ -15,7 +15,7 @@ The following list are exercises and assignments for the course Programming and 
 The codes relate to which exercise it answers, please refer to the repository.
 
 * **Exercise 1 and 2**- [firstLast.py](https://github.com/NurseQ/Programming-and-Scripting/blob/master/firstLast.py)
-* **Exercise 3**- collatz.py
-* **Exercise 4**- euler.py
-* **Exercise 5**- exercise5.py
-* **Exercise 6**- factorial.py
+* **Exercise 3**- [collatz.py](https://github.com/NurseQ/Programming-and-Scripting/blob/master/collatz.py)
+* **Exercise 4**- [euler.py](https://github.com/NurseQ/Programming-and-Scripting/blob/master/euler.py)
+* **Exercise 5**- [exercise5.py](https://github.com/NurseQ/Programming-and-Scripting/blob/master/exercise5.py)
+* **Exercise 6**- [factorial.py](https://github.com/NurseQ/Programming-and-Scripting/blob/master/factorial.py)
