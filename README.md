@@ -14,7 +14,7 @@ The purpose of this repository is to learn to code in python in relation to its 
 The following list are exercises and assignments for the course Programming and Scripting. 
 The codes relate to which exercise it answers, please refer to the repository.
 
-* **Exercise 1 and 2**- firstLast.py
+* **Exercise 1 and 2**- [firstLast.py](https://github.com/NurseQ/Programming-and-Scripting/blob/master/firstLast.py)
 * **Exercise 3**- collatz.py
 * **Exercise 4**- euler.py
 * **Exercise 5**- exercise5.py
