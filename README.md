@@ -23,4 +23,5 @@ The codes relate to which exercise it answers, please refer to the repository or
 
 ## Author
 **James Quintin** - Higher Diploma in Data Analytics
+
 *Any contributors or adapted code are stated within the code, a link to the site where the code is adapted from is also provided where available. 
