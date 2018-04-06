@@ -21,6 +21,6 @@ The codes relate to which exercise it answers, please refer to the repository or
 * **Exercise 6**- [factorial.py](https://github.com/NurseQ/Programming-and-Scripting/blob/master/factorial.py)
 
 
-##Author
+## Author
 **James Quintin** - Higher Diploma in Data Analytics
 *Any contributors or adapted code are stated within the code, a link to the site where the code is adapted from is also provided where available. 
