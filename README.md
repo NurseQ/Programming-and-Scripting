@@ -1,6 +1,9 @@
-# Exercises in Python code
+# Programming and Scripting
 
-This repository contains exercises and practice code written in [python](https://www.python.org/). 
+This repository contains exercises and practice code written in [python](https://www.python.org/). The codes in this repository are
+from the standpoint of beginner programmer and includes codes for basic string manipulation, math calculations, lists manipulation, 
+conditions and loops. 
+
 
 
 ## Purpose
