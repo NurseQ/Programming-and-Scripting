@@ -17,7 +17,9 @@ The purpose of this repository is to learn to code in python in relation to its 
 The following list are exercises and assignments for the course Programming and Scripting. 
 The codes relate to which exercise it answers, please refer to the repository or click on the code itself. 
 
-* **Exercise 1 and 2**- [firstLast.py](https://github.com/NurseQ/Programming-and-Scripting/blob/master/firstLast.py)
+* **Exercise 1 and 2**- [firstLast.py](https://github.com/NurseQ/Programming-and-Scripting/blob/master/firstLast.py) - This exercise
+takes a number and returns the nth [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number) number. This exercise also shows manipulation of strings and use of the built-in [ord](https://docs.python.org/2/library/functions.html) python function. 
+
 * **Exercise 3**- [collatz.py](https://github.com/NurseQ/Programming-and-Scripting/blob/master/collatz.py)
 * **Exercise 4**- [euler.py](https://github.com/NurseQ/Programming-and-Scripting/blob/master/euler.py)
 * **Exercise 5**- [exercise5.py](https://github.com/NurseQ/Programming-and-Scripting/blob/master/exercise5.py)
