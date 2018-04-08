@@ -1,5 +1,6 @@
 # Script to tell if it is Tuesday
-# Programming and scripting 2018 Ian Mcloughlin
+# Programming and scripting 2018 
+# Adopted from Ian Mcloughlin
 
 import datetime
 
